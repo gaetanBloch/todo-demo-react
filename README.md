@@ -1,6 +1,6 @@
 # Jhipster Configuration options
 
-![Configuration](https://i.imgur.com/zlICDk7.png)
+![Configuration](https://i.imgur.com/ZGqBwre.png)
 
 # todoDemo
 
